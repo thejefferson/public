@@ -1,3 +1,4 @@
 Discord.Discord
 ParadoxInteractive.ParadoxLauncher
 Microsoft.VisualStudioCode
+SAPIEN.PowerShellStudio
